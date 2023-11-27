@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Redux Toolkit
 
 #### React Course
@@ -727,3 +728,6 @@ const cartSlice = createSlice({
   },
 });
 ```
+=======
+# Redux--Toolkit
+>>>>>>> 275e90402cb53113b09641f20c469d5ae357809a
